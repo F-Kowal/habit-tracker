@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitTracker.Api", "HabitTracker.Api\HabitTracker.Api.csproj", "{DBB3A4B3-EB33-4DE9-BD2E-45892D8ADDFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB3A4B3-EB33-4DE9-BD2E-45892D8ADDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB3A4B3-EB33-4DE9-BD2E-45892D8ADDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB3A4B3-EB33-4DE9-BD2E-45892D8ADDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB3A4B3-EB33-4DE9-BD2E-45892D8ADDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DBB3A4B3-EB33-4DE9-BD2E-45892D8ADDFD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFC35CF4-E7A6-49EB-BEFD-52F5D4198316}
+	EndGlobalSection
+EndGlobal
