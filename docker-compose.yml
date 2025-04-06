@@ -1,0 +1,9 @@
+services:
+  habittracker.api:
+    image: ${DOCKER_REGISTRY-}habittrackerapi
+    build:
+      context: .
+      dockerfile: HabitTracker.Api/Dockerfile
+    ports:
+      - 5000:8080
+      - 5001:8081
